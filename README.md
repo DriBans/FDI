@@ -5,7 +5,7 @@ My CAPSTONE project for my master will be about "how FDI affects the unemploymen
 `
 29/04/2022 - Global FDI flows bounced back in 2021, growing by 88% to USD 1 815 billion, and 37% above pre-pandemic levels. However, the outlook remains uncertain given the current geopolitical context. This growth was driven by OECD area earnings on inward and outward FDI reaching some of their highest levels since 2005. In 2021, the United States was the top FDI destination worldwide, followed by China, Canada and Brazil. `
 
-The aim of this project is to develop research data on how FDI affects the economy in the USA and the world using statistical analysis. The research related to this topic is insufficient, and thereby, hoping to study this further for my PhD topic (Not confirmed).
+The aim of this project is to develop research data on how FDI affects the economy in the G20 countries using statistical analysis. The research related to this topic is insufficient, and thereby, hoping to study this further for my PhD topic (Not confirmed).
 
 There will be many files in this project because it will be hard to read in one long-lengthed file and the performance will be better when searching.
 Starting with:
