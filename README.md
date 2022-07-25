@@ -11,9 +11,11 @@ There will be many files in this project because it will be hard to read in one 
 Starting with:
 - [Aim of this case study](https://github.com/DriBans/FDI/blob/main/Aim_of_the_study.md)
 - Overview of Foreign Direct Investment
-- How can it be affected by unemployment?
-- Data Collection/Sources
-- Why is it important?
+- Methodology
+- Literature Review
+  - How can it be affected by unemployment?
+  - Data Collection/Sources
+  - Why is it important?
 - Research Questions
 - Statistical analysis (Testing hypothesis, analysis process, result of the analysis)
 - [Related works](https://github.com/DriBans/FDI/blob/main/RelatedWorks.md) (It would tell you why this topic is not popular)
