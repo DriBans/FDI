@@ -16,7 +16,7 @@ Starting with:
   - How can it be affected by unemployment?
   - Data Collection/Sources
   - Why is it important?
-- Research Questions
+- [Research Questions](https://github.com/DriBans/FDI/blob/main/Research_questions.md)
 - Statistical analysis (Testing hypothesis, analysis process, result of the analysis)
 - [Related works](https://github.com/DriBans/FDI/blob/main/RelatedWorks.md) (It would tell you why this topic is not popular)
 - Conclusion
