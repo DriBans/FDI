@@ -16,6 +16,6 @@ Starting with:
 - Why is it important?
 - Research Questions
 - Statistical analysis (Testing hypothesis, analysis process, result of the analysis)
-- Related works (It would tell you why this topic is not popular)
+- [Related works (It would tell you why this topic is not popular)](https://github.com/DriBans/FDI/blob/main/RelatedWorks.md)
 - Conclusion
 - [References](https://github.com/DriBans/FDI/blob/main/References)
