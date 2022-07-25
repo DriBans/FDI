@@ -9,7 +9,7 @@ The aim of this project is to develop research data on how FDI affects the econo
 
 There will be many files in this project because it will be hard to read in one long-lengthed file and the performance will be better when searching.
 Starting with:
-- Aim of this case study
+- [Aim of this case study](https://github.com/DriBans/FDI/blob/main/Aim_of_the_study.md)
 - Overview of Foreign Direct Investment
 - How can it be affected by unemployment?
 - Data Collection/Sources
