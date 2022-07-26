@@ -12,7 +12,7 @@ Starting with:
 - [Aim of this case study](https://github.com/DriBans/FDI/blob/main/Aim_of_the_study.md)
 - [Overview of Foreign Direct Investment](https://github.com/DriBans/FDI/blob/main/Overview_of_FDI.md)
 - [Related works](https://github.com/DriBans/FDI/blob/main/RelatedWorks.md) (It would tell you why this topic is not popular)
-- Methodology
+- [Methodology](https://github.com/DriBans/FDI/blob/main/Methodology.md)
 - Literature Review
   - How can it be affected by unemployment?
   - Data Collection/Sources
