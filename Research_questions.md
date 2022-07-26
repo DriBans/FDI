@@ -19,9 +19,7 @@ Third is to do a unit root test, multicollinearity, regression estimator.
 
 Here are the lists of test from the resources:
 - Toda Yamamoto Causality analysis
-- cointegration vectors test
+- cointegration test- Johansen, Engle–Granger two-step method, Phillips–Ouliaris cointegration test, Multicollinearity, Bayesian inference
 - Harris- Todaro economic model
-- Johansen test technique
 - the unit root test of augmented Dickey-Fuller test statistics
 - variance decomposition (?)
-- 
