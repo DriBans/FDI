@@ -13,8 +13,15 @@ Second is to do hypothesis testing
 Hypothesis 1: The inflow of FDI influences the unemployment rate in a country. 
 Hypothesis 2: The unemployment rate has an influence on the inflow of FDI attracted by a country.
 
-Third is to do an augmented Dickey Fuller test.
-
-Fourth is to do a unit root test, multicollinearity, regression estimator. 
+Third is to do a unit root test, multicollinearity, regression estimator. 
 
 (Please note that there will be more tests depending on the data such as causality test, cointegration test, etc.)
+
+Here are the lists of test from the resources:
+- Toda Yamamoto Causality analysis
+- cointegration vectors test
+- Harris- Todaro economic model
+- Johansen test technique
+- the unit root test of augmented Dickey-Fuller test statistics
+- variance decomposition (?)
+- 
