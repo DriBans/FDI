@@ -23,3 +23,4 @@ Here are the lists of test from the resources:
 - Harris- Todaro economic model
 - the unit root test of augmented Dickey-Fuller test statistics
 - variance decomposition (?)
+- Panel Cointegration test
