@@ -1,6 +1,6 @@
 ### FDI (Foreign Direct Investment)
 
-My CAPSTONE project for my master will be about "how FDI affects the unemployment rate" using statistical analysis, and possibly data analysis. It will be short as this is due one semester. Here is the dataset that I have got from [Foreign Direct Investment](https://www.oecd.org/investment/statistics.htm).
+My CAPSTONE project for my master will be about "how FDI affects the unemployment rate" using statistical analysis, and possibly data analysis. It will be short as this is due one semester. Here is the dataset that I have got from [Foreign Direct Investment](https://www.bea.gov/data/intl-trade-investment).
 
 `
 29/04/2022 - Global FDI flows bounced back in 2021, growing by 88% to USD 1 815 billion, and 37% above pre-pandemic levels. However, the outlook remains uncertain given the current geopolitical context. This growth was driven by OECD area earnings on inward and outward FDI reaching some of their highest levels since 2005. In 2021, the United States was the top FDI destination worldwide, followed by China, Canada and Brazil. `
